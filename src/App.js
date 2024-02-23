@@ -1,9 +1,9 @@
 import './App.css';
-import Autos from './Autos';
+import Autoseintragen from './Autoseintragen';
 function App() {
   return (
    <>
-   <Autos/>
+   <Autoseintragen/>
    </>
   );
 }
